@@ -83,14 +83,13 @@ section li {
   margin: 15px 0px 0px 20px;
 }
 
-
 @media only screen and (max-width: 815px) {
   /* For mobile phones: */
   #navbar ul {
     border: 1px solid;
     height: 207px;
   }
-  .main-section{
+  .main-section {
     margin-top: 100px;
   }
   #navbar {
@@ -103,17 +102,18 @@ section li {
     max-height: 275px;
     border: none;
     z-index: 1;
- 
   }
 
   #main-doc {
     position: relative;
     margin-left: 0px;
     margin-top: 270px;
-  }#navbar a:hover {
+  }
+  #navbar a:hover {
     background-color: #ddd;
     color: black;
-  }img {
+  }
+  img {
     width: 100%;
     height: auto;
   }
@@ -123,7 +123,7 @@ section li {
   #main-doc {
     margin-left: -10px;
   }
-  .main-section{
+  .main-section {
     margin-top: 100px;
   }
   code {
@@ -133,10 +133,12 @@ section li {
     padding-left: 10px;
     padding-right: 45px;
     min-width: 233px;
-  }#navbar a:hover {
+  }
+  #navbar a:hover {
     background-color: #ddd;
     color: black;
-  }img {
+  }
+  img {
     width: 100%;
     height: auto;
   }
