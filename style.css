@@ -105,9 +105,7 @@ section li {
     z-index: 1;
  
   }
-  img {
-    width: 570px;
-  }
+
   #main-doc {
     position: relative;
     margin-left: 0px;
@@ -115,6 +113,9 @@ section li {
   }#navbar a:hover {
     background-color: #ddd;
     color: black;
+  }img {
+    width: 100%;
+    height: auto;
   }
 }
 
@@ -135,5 +136,8 @@ section li {
   }#navbar a:hover {
     background-color: #ddd;
     color: black;
+  }img {
+    width: 100%;
+    height: auto;
   }
 }
